@@ -1,6 +1,6 @@
 # Parameter variator
 # Usage:
-Put several patterns like `a|b|c` `d|e|f` into your input file.
+Put several patterns like `` `a|b|c` `d|e|f` `` into your input file.
 
 Run ./variator input_file.txt output_-i-.txt
 
